@@ -6,7 +6,7 @@ The list is available at `/list`
 
 ### Installation
 
-npm install https://github.com/esripdx/ep_padlist/tarball/master
+npm install https://github.com/fshuwi/ep_padlist/tarball/master
 
 ### License
 
